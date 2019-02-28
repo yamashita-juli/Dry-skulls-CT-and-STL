@@ -26,7 +26,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - Image resolution: X/Y/Z 0.1180232 mm
 - CT manufacturer: [TESCO CORPORATION, Yokohama, Japan](http://www.tesco-ndt.co.jp/)
 - CT model name: TXS300
-- Data size : (1) head : 23 DICOM files (5.1 GB) and 1 STL file (266 MB),  (2) skullcap : 661 DICOM files (2.8 GB) and 1 STL file (226 MB), (3) mandible : 972 DICOM files (2.4 GB) and 1 STL file (61.4 MB)
+- Data size : (1) face : 23 DICOM files (5.1 GB) and 1 STL file (266 MB),  (2) skullcap : 661 DICOM files (2.8 GB) and 1 STL file (226 MB), (3) mandible : 972 DICOM files (2.4 GB) and 1 STL file (61.4 MB)
 
 ![Skull2Image](https://github.com/yamashita-juli/Dry-skulls-CT-and-STL/blob/master/20190228Skull2.jpg)
 
