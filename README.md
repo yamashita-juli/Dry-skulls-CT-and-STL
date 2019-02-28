@@ -5,8 +5,22 @@ This repogitry provides CT images and STL files of human dry skull specimens.
 These specimens were purchased many years ago for research purposes by AIST, Japan.
 
 ## How to obtain data
-Since data files are too large to upload, only one DICOM image for each part is included in this repository.
-Please send the following information to the author to obtain full data.
+Since data files are too large to upload, only one DICOM image for each part is included in this repository. Please send the following information to the author to obtain more data. We will send data in DVD-R. 
+
+-----
+- Your name: 
+- Affiliation: 
+- E-mail address: 
+- Postal address: 
+- Data you need (delete unnecessary ones): Skull1 head / Skull1 mandible / Skull2 face / Skull2 cap / Skull2 mandible 
+- How do you use the data? : 
+-----
+
+## Author contact address
+
+- E-mail: juli@ni.aist.go.jp
+- URL: http://staff.aist.go.jp/yamashita-juli/
+
 
 ## Licence
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
@@ -28,7 +42,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - CT model name: TXS300
 - Data size : (1) face : 23 DICOM files (5.1 GB) and 1 STL file (266 MB),  (2) skullcap : 661 DICOM files (2.8 GB) and 1 STL file (226 MB), (3) mandible : 972 DICOM files (2.4 GB) and 1 STL file (61.4 MB)
 
-![Skull2Image](https://github.com/yamashita-juli/Dry-skulls-CT-and-STL/blob/master/20190228Skull2.jpg)
+![Skull2Image](https://github.com/yamashita-juli/Dry-skulls-CT-and-STL/blob/master/20190228skull2.jpg)
 
 
 ## Acknowledgement
