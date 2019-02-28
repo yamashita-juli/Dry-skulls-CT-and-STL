@@ -14,6 +14,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - CT manufacturer: [TESCO CORPORATION, Yokohama, Japan](http://www.tesco-ndt.co.jp/)
 - CT model name: TXS300
 
+![Skull1Image](https://github.com/yamashita-juli/Dry-skulls-CT-and-STL/blob/master/20190228Skull1.jpg)
 
 ## Skull 2
 
@@ -22,6 +23,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - CT manufacturer: [TESCO CORPORATION, Yokohama, Japan](http://www.tesco-ndt.co.jp/)
 - CT model name: TXS300
 
+![Skull2Image]()
 
 ## Acknowledgement
 
