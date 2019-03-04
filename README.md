@@ -5,7 +5,7 @@ This repogitry provides CT images and STL files of human dry skull specimens.
 These specimens were purchased many years ago for research purposes by AIST, Japan.
 
 ## How to obtain data
-Since data files are too large to upload, only one DICOM image for each part is included in this repository. Please send the following information to the author to obtain more data. We will send data in DVD-R(s). 
+Since data files are too large to upload, only one DICOM image for each part and screenshots of STL files are included in this repository. Please send the following information to the author to obtain more data. We will send data in DVD-R(s). 
 
 -----
 - Your name: 
@@ -54,5 +54,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 This work was funded by ImPACT Program of Council for Science, Technology and Innovation (Cabinet Office, Government of Japan).
 
 ### History
-- Data measureed: 2018/11
+- Data measured: 2018/11
 - Uploaded sample files (to this repository): 2019/03
