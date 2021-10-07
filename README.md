@@ -56,4 +56,4 @@ This work was funded by ImPACT Program of Council for Science, Technology and In
 ### History
 - Data measured: 2018/11
 - Uploaded sample files (to this repository): 2019/03
-- Numbers of Distribution: 1 (2021/10/07)
+- Number of Distribution: 1 (2021/10/07)
