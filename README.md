@@ -19,7 +19,7 @@ Since data files are too large to upload, only one DICOM image for each part and
 ## Author contact address
 - Name: Juli Yamashita
 - Affiliation: National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- E-mail: juli@ni.aist.go.jp
+- E-mail: yamashita-juli@aist.go.jp
 - URL: http://staff.aist.go.jp/yamashita-juli/
 
 
