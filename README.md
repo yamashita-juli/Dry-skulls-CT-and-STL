@@ -20,8 +20,6 @@ Since data files are too large to upload, only one DICOM image for each part and
 - Name: Juli Yamashita
 - Affiliation: National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - E-mail: yamashita-juli@aist.go.jp
-- URL: http://staff.aist.go.jp/yamashita-juli/
-
 
 ## Licence
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
