@@ -27,6 +27,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Citation and Attribution
 If you use the CT images or STL data provided in this repository, please acknowledge the data source in your publication, presentation, educational material, or other work.
 The following citation is recommended:
+
   Yamashita, J. (2019). CT images and STL data of human dry skull specimens. National Institute of Advanced Industrial Science and Technology (AIST), Japan. https://github.com/yamashita-juli/Dry-skulls-CT-and-STL
 
 Please retain the following information when redistributing or reusing the data:
