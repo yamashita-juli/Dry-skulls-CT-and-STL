@@ -24,6 +24,20 @@ Since data files are too large to upload, only one DICOM image for each part and
 ## Licence
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). 
 
+## Citation and Attribution
+If you use the CT images or STL data provided in this repository, please acknowledge the data source in your publication, presentation, educational material, or other work.
+The following citation is recommended:
+  Yamashita, J. (2019). CT images and STL data of human dry skull specimens. National Institute of Advanced Industrial Science and Technology (AIST), Japan. https://github.com/yamashita-juli/Dry-skulls-CT-and-STL
+
+Please retain the following information when redistributing or reusing the data:
+- The original source of the data
+- The name of the author, Juli Yamashita
+- The repository URL
+- The Creative Commons Attribution 4.0 International (CC BY 4.0) license
+
+If the data are used in an academic publication, we would appreciate it if you could cite this dataset in the reference list and/or acknowledge its use in the Acknowledgements section.
+
+
 ## Contents
 ### Skull 1
 - Hometown: Highly probably India
@@ -48,10 +62,11 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 ## Acknowledgement
-
 This work was funded by ImPACT Program of Council for Science, Technology and Innovation (Cabinet Office, Government of Japan).
+
+The CT images and STL data were obtained from human dry skull specimens purchased for research purposes by the National Institute of Advanced Industrial Science and Technology (AIST), Japan.
 
 ### History
 - Data measured: 2018/11
 - Uploaded sample files (to this repository): 2019/03
-- Number of Distribution: 3 (2023/02/21)
+- Number of Distribution: 8 (As of 2026/09/17)
